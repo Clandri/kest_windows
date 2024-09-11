@@ -5,8 +5,27 @@ answer = update driver ,roll back driver ,uninstall driver, disable driver, driv
 After finalizing the Windows installation, what else can you do to improve your experience?
 answer = Adjust default Windows apps, Disable unnecessary startup items, Optimize power plan settings, Tweak privacy settings
 
-
 3.1.2.5 Lab - Search for BIOS or UEFI Firmware Updates
+What key or combination of keys is used to run Setup on your computer?
+answer = F2
+
+Who is the manufacturer of the BIOS?
+answer = ASUS
+
+Which BIOS version is installed in your computer?
+answer = 201
+
+What is the current BIOS version available for the motherboard?
+answer = Version 301
+
+What features, if any, have been added to the new BIOS version?
+answer = no new features have been added 
+
+What changes, if any, have been made to the new BIOS version to fix problems?
+answer = Optimize system performance and Intel Security update
+
+What are the instructions to update the new BIOS version?
+answer = you download the new update, then move it over to a USB stick and then update your bios that way
 
 3.1.2.7 Lab - Install Third-Party Software in Windows
 
