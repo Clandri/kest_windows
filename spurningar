@@ -28,6 +28,11 @@ What are the instructions to update the new BIOS version?
 answer = you download the new update, then move it over to a USB stick and then update your bios that way
 
 3.1.2.7 Lab - Install Third-Party Software in Windows
+What is the default installation location for Packet Tracer?
+answer = In the Program Files folder
+
+Why does Microsoft recommend using Uninstall or change a program to remove an installed application?
+answer = it ensures that the application is completely removed
 
 10.2.1.8 Lab - Create a Partition in Windows
 
