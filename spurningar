@@ -174,6 +174,45 @@ answer = The Task Manager can be a valuable tool for an administrator when troub
 
 11.1.4.11 Lab - Working with File Explorer
 
+What happened with Folder1 and Folder2 on the Desktop?
+answer = The new folders are displayed on the Desktop. After moving Folder2 into Folder1, only Folder1 on the Desktop.
+
+What is the file extension for the text document?
+answer = The file extension is .txt.
+
+How would you do it?
+answer = Right-click the text document > click Copy. Open Folder2 and right-click Paste.
+
+What are the attributes associated with this file?
+answer = A for Archive.
+
+What is the complete path to Folder3?
+answer = C:\Users\Jon Alexander\Desktop\folder1\folder2
+
+ which directories are listed under Folders?
+answer = The folders are Desktop, Downloads, Documents, Pictures, Music, and Videos.
+
+What happened? Why would you want to do this?
+answer = The folder is now listed under the headings Quick Access or Favorites. This provides a link to the folder and allows for quick access to a nested folder from File Explorer or Windows Explorer.
+
+What are folders listed in the Local Disk (C:)?
+answer = The listed folders are PerfLogs, Program Files, Program Files (x86), Users, and Windows.
+
+Were you able to open it? Explain.
+answer = Yes. You have the permission to access folder owned by you.
+
+Open the folder associated with another username if it is available on the PC.
+answer = its not available
+
+Open the Public folder. List all the folders in the directory.
+answer = Public Documents, Public Downloads, Public Music, Public Pictures, and Public Videos.
+
+Which folders or files listed under the Libraries heading?
+answer = Documents, Music, Pictures, and Videos.
+
+How would you remove the directory of Folder1 from the library without deleting Folder1 and its contents from the computer?
+answer = Select the Folder1 library location and click Remove and then click OK.
+
 11.2.1.5 Lab - Explore Control Panel Categories
 
 11.2.2.3 Lab - User Accounts
